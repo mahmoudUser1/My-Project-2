@@ -1,0 +1,38 @@
+
+body {
+    font-family: 'FondFamily', 'public sans', sans-serif; 
+}
+li {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+}
+.content {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+}
+@media (min-width: 786px) {
+    .content {
+        width: 600px;
+    }
+}
+@media (min-width: 992px) {
+    .content {
+        width: 800px;
+    }
+}
+@media (min-width: 1200px) {
+    .content {
+        width: 1000x;
+    }
+}
+header {
+
+}
+header .content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
