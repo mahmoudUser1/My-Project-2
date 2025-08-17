@@ -1,7 +1,0 @@
-@font-face {
-    font-family: 'FondFamily';
-    src: url('../static/PublicSans-VariableFont_wght.ttf') format('truetype'), 
-    url('../static/PublicSans-Italic-VariableFont_wght.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-}

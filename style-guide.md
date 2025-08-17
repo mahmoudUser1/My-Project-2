@@ -13,16 +13,13 @@ The designs were created to the following widths:
 
 ### Primary
 
-- Blue 950: hsl(233, 26%, 24%)
-- Green 500: hsl(136, 64%, 51%)
-- Cyan 400: hsl(192, 69%, 51%)
+- Green 500: hsl(171, 66%, 44%)
+- Blue 100: hsl(233, 100%, 69%)
 
 ### Neutral
 
-- Gray 600: hsl(233, 8%, 62%)
-- Gray 100: hsl(220, 16%, 96%)
-- Gray 50: hsl(0, 0%, 98%)
-- White: hsl(0, 100%, 100%)
+- Gray 700: hsl(210, 10%, 33%)
+- Gray 500: hsl(201, 11%, 66%)
 
 ## Typography
 
@@ -30,9 +27,17 @@ The designs were created to the following widths:
 
 - Font size: 18px
 
-### Font
+### Fonts
 
-- Family: [Public Sans](https://fonts.google.com/specimen/Public+Sans)
-- Weights: 300, 400, 700
+- Family: [Bai Jamjuree](https://fonts.google.com/specimen/Bai+Jamjuree)
+- Weights: 400, 600
+
+## Icons
+
+For the social icons, you can use the SVGs provided or a font icon library. Some font icon library suggestions can be found below:
+
+- [Font Awesome](https://fontawesome.com)
+- [IcoMoon](https://icomoon.io)
+- [Ionicons](https://ionicons.com)
 
 > 💎 [Upgrade to Pro](https://www.frontendmentor.io/pro?ref=style-guide) for design file access to see all design details and get hands-on experience using a professional workflow with tools like Figma.
