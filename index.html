@@ -3,10 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Digitalbank</title>
+    <link rel="icon" href="images/favicon-32x32.png" type="image/png">
     <link rel="stylesheet" href="css/all.min.css">
     <link rel="stylesheet" href="css/fontFamliy.css">
     <link rel="stylesheet" href="css/normalize.css">
+    <!-- style home project -->
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
@@ -14,7 +16,10 @@
         <div class="content">
             <div class="head">
                 <img src="images/logo-dark.svg" alt="">
-                <nav>
+                <button class="menu-btn" id="menuBtn">
+                    <img id="menuIcon" src="images/icon-hamburger.svg" alt="">
+                </button>
+                <nav id="menu">
                     <ul>
                         <li><a href="">Home</a></li>
                         <li><a href="">About</a></li>
@@ -23,9 +28,10 @@
                         <li><a href="">Careers</a></li>
                     </ul>
                 </nav>
-                <button>Request lnvite</button>
+                <button class="but_header">Request lnvite</button>
             </div>
         </div>
     </header>
+    <script src="js/menu.js"></script>
 </body>
 </html>
